@@ -1,17 +1,34 @@
 ---
-title: "Mathematics for Political Science"
+title: "Mathematics for Political Science - Fall 2025"
 description: |
   Math Refresher course for Political Science MA at the University of Mannheim
+format:
+  html:
+    theme: flatly
+    document-css: false
+    link-citations: true
+    date-format: long
+    lang: en
+editor: visual
 ---
 
-### Welcome
+### Welcome Video
+
+<div style="text-align: center;">
+  <video width="720" height="405" controls>
+    <source src="files/Mathematics_for_Political_Scientists_explainer.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### Course Details
 
-Times: see [Syllabus](syllabus.html)\
+Times: see [Syllabus](syllabus.html)  
 Location: B 317 Seminarraum (A5, 6 Bauteil B)
 
 ### Teaching Staff
 
-**Carlos Gueiros** <br> Email: [cgueiros\@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de)\
-Office Hours: by appointment <br> Office: B 301
+**Carlos Gueiros**  
+Email: [cgueiros@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de)  
+Office Hours: by appointment  
+Office: B 301

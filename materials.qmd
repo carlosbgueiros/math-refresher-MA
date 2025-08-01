@@ -4,7 +4,7 @@ title: "Materials"
 
 ## Slides
 
--   Lecture slides [PDF](files/math_refresher_22_lecture_slides.pdf)
+-   Lecture slides [PDF](files/math_refresher_25_lecture_slides.pdf)
 
 ## Problem Sets
 
@@ -24,7 +24,7 @@ title: "Materials"
 
 8.  Probability II [PDF](files/PS_Probability%20II.pdf) \| Solutions [PDF](files/S_Probability%20II.pdf)
 
-9.  Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf)
+<!-- 9.  Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf) -->
 
 ## Readings
 
