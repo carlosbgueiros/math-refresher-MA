@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Mathematics for Political Science",
     "section": "",
-    "text": "Course Details\nTimes: see Syllabus\nLocation: B 317 Seminarraum (A5, 6 Bauteil B)\n\n\nTeaching Staff\nCarlos Gueiros  Email: cgueiros@uni-mannheim.de\nOffice Hours: by appointment  Office: B 304"
+    "text": "Course Details\nTimes: see Syllabus\nLocation: B 317 Seminarraum (A5, 6 Bauteil B)\n\n\nTeaching Staff\nCarlos Gueiros  Email: cgueiros@uni-mannheim.de\nOffice Hours: by appointment  Office: B 301"
   },
   {
     "objectID": "about.html",
@@ -89,5 +89,19 @@
     "title": "Syllabus",
     "section": "Course Description",
     "text": "Course Description\nThis course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. Each day consists of lectures and exercise sessions. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
+  },
+  {
+    "objectID": "materials.html#slides",
+    "href": "materials.html#slides",
+    "title": "Materials",
+    "section": "",
+    "text": "Lecture slides PDF"
+  },
+  {
+    "objectID": "materials.html#footnotes",
+    "href": "materials.html#footnotes",
+    "title": "Materials",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://hefferon.net/linearalgebra/↩︎\nhttp://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf↩︎"
   }
 ]

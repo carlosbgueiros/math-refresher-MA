@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Math for Political Science"
+  title: "Mathematics Refresher for Political Science"
   navbar:
     right:
       - href: index.qmd

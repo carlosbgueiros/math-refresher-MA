@@ -8,23 +8,23 @@ title: "Materials"
 
 ## Problem Sets
 
-1. Set Theory I [PDF](files/PS_Set Theory I.pdf) | Solutions [PDF](files/S_Set Theory I.pdf)
+1.  Set Theory I [PDF](files/PS_Set%20Theory%20I.pdf) \| Solutions [PDF](files/S_Set%20Theory%20I.pdf)
 
-2. Set Theory II [PDF](files/PS_Set Theory II.pdf) | Solutions [PDF](files/S_Set Theory II.pdf)
+2.  Set Theory II [PDF](files/PS_Set%20Theory%20II.pdf) \| Solutions [PDF](files/S_Set%20Theory%20II.pdf)
 
-3. Analysis I [PDF](files/PS_Analysis I.pdf) | Solutions [PDF](files/S_Analysis I.pdf)
+3.  Analysis I [PDF](files/PS_Analysis%20I.pdf) \| Solutions [PDF](files/S_Analysis%20I.pdf)
 
-4. Analysis II [PDF](files/PS_Analysis II.pdf) | Solutions [PDF](files/S_Analysis II.pdf)
+4.  Analysis II [PDF](files/PS_Analysis%20II.pdf) \| Solutions [PDF](files/S_Analysis%20II.pdf)
 
-5. Linear Algebra I [PDF](files/PS_Algebra I.pdf) | Solutions [PDF](files/S_Algebra I.pdf)
+5.  Linear Algebra I [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20I.pdf)
 
-6. Linear Algebra II [PDF](files/PS_Algebra I.pdf) | Solutions [PDF](files/S_Algebra II.pdf)
+6.  Linear Algebra II [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20II.pdf)
 
-7. Probability I [PDF](files/PS_Probability I.pdf) | Solutions [PDF](files/S_Probability I.pdf)
+7.  Probability I [PDF](files/PS_Probability%20I.pdf) \| Solutions [PDF](files/S_Probability%20I.pdf)
 
-8. Probability II [PDF](files/PS_Probability II.pdf) | Solutions [PDF](files/S_Probability II.pdf)
+8.  Probability II [PDF](files/PS_Probability%20II.pdf) \| Solutions [PDF](files/S_Probability%20II.pdf)
 
-9. Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf) 
+9.  Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf)
 
 ## Readings
 
@@ -62,9 +62,9 @@ Here are some recommended readings. You are not required to read all of those bo
 
     -   DeGroot/Schervish (2011) *A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises.*
 
-[^1]: [https://hefferon.net/linearalgebra/](https://hefferon.net/linearalgebra/)
+[^1]: <https://hefferon.net/linearalgebra/>
 
-[^2]: [http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+[^2]: <http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf>
 
 ## Additional Resources
 
