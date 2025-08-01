@@ -1,0 +1,55 @@
+---
+title: "Syllabus"
+---
+
+-   Downloadable Syllabus [PDF](files/syllabus.pdf)
+
+## Course Description
+
+This course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. Each day consists of lectures and exercise sessions. The course's objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques.
+
+## Attendance Policy
+
+While the instructor strongly encourage attendance, this course is voluntary. If you decide to participate I expect you to attend the class actively and full time each session.
+
+## Class Schedule
+
+| Date       | Day       | Time          | Room                                |
+|------------|-----------|---------------|-------------------------------------|
+| 29.08.2022 | Monday    | 14:00 - 17:15 | B 317 Seminarraum (A5, 6 Bauteil B) |
+| 30.08.2022 | Tuesday   | 9:15 - 17:15  | B 317 Seminarraum (A5, 6 Bauteil B) |
+| 31.08.2022 | Wednesday | 9:15 - 13:15  | B 317 Seminarraum (A5, 6 Bauteil B) |
+| 01.09.2022 | Thursday  | 9:15 - 17:15  | B 317 Seminarraum (A5, 6 Bauteil B) |
+| 02.09.2022 | Friday    | 9:15 - 12:30  | B 317 Seminarraum (A5, 6 Bauteil B) |
+
+## Contents
+
+-   Introduction
+
+-   Set Theory
+
+    -   Sets, Binary Relations, Functions
+
+-   Analysis I
+
+    -   Equations, Differentiation
+
+-   Analysis II
+
+    -   Optimization, Integration
+
+-   Linear Algebra I
+
+    -   Linear Combinations, Vector Spaces, Matrices
+
+-   Linear Algebra II
+
+    -   Determinants, Gaussian Elimination
+
+-   Probability I
+
+    -   Combinatorics, Bayes' Rule
+
+-   Probability II
+
+    -   Distributions

@@ -1,0 +1,19 @@
+---
+title: "Mathematics for Political Science"
+description: |
+  Math Refresher course for Political Science at the University of Mannheim
+---
+
+### Course Details
+
+Times: see [Syllabus](syllabus.html)  
+Location: B 317 Seminarraum (A5, 6 Bauteil B)  
+
+### Teaching Staff
+
+**Carlos Gueiros** <br>
+Email: [cgueiros@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de)  
+Office Hours: by appointment <br>
+Office: B 304
+
+

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Math for Political Science"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: materials.qmd
+        text: Materials
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

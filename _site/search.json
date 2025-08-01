@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mathematics for Political Science",
+    "section": "",
+    "text": "Course Details\nTimes: see Syllabus\nLocation: B 317 Seminarraum (A5, 6 Bauteil B)\n\n\nTeaching Staff\nCarlos Gueiros  Email: cgueiros@uni-mannheim.de\nOffice Hours: by appointment  Office: B 304"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "Lecture slides PDF"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Downloadable Syllabus PDF"
+  },
+  {
+    "objectID": "syllabus.html#attendance-policy",
+    "href": "syllabus.html#attendance-policy",
+    "title": "Syllabus",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nWhile the instructor strongly encourage attendance, this course is voluntary. If you decide to participate I expect you to attend the class actively and full time each session."
+  },
+  {
+    "objectID": "syllabus.html#class-schedule",
+    "href": "syllabus.html#class-schedule",
+    "title": "Syllabus",
+    "section": "Class Schedule",
+    "text": "Class Schedule\n\n\n\n\n\n\n\n\n\nDate\nDay\nTime\nRoom\n\n\n\n\n29.08.2022\nMonday\n14:00 - 17:15\nB 317 Seminarraum (A5, 6 Bauteil B)\n\n\n30.08.2022\nTuesday\n9:15 - 17:15\nB 317 Seminarraum (A5, 6 Bauteil B)\n\n\n31.08.2022\nWednesday\n9:15 - 13:15\nB 317 Seminarraum (A5, 6 Bauteil B)\n\n\n01.09.2022\nThursday\n9:15 - 17:15\nB 317 Seminarraum (A5, 6 Bauteil B)\n\n\n02.09.2022\nFriday\n9:15 - 12:30\nB 317 Seminarraum (A5, 6 Bauteil B)"
+  },
+  {
+    "objectID": "syllabus.html#contents",
+    "href": "syllabus.html#contents",
+    "title": "Syllabus",
+    "section": "Contents",
+    "text": "Contents\n\nIntroduction\nSet Theory\n\nSets, Binary Relations, Functions\n\nAnalysis I\n\nEquations, Differentiation\n\nAnalysis II\n\nOptimization, Integration\n\nLinear Algebra I\n\nLinear Combinations, Vector Spaces, Matrices\n\nLinear Algebra II\n\nDeterminants, Gaussian Elimination\n\nProbability I\n\nCombinatorics, Bayes’ Rule\n\nProbability II\n\nDistributions"
+  },
+  {
+    "objectID": "materials.html#readings",
+    "href": "materials.html#readings",
+    "title": "Materials",
+    "section": "Readings",
+    "text": "Readings\nHere are some recommended readings. You are not required to read all of those books prior to class.\n\nGeneral\n\nMoore/Siegel (2013) An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.\nGill (2006) Another introduction to mathematical principles for incoming social science graduate students.\nSimon/Blume (1994) A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.\nSydsaeter/Hammond (2008) Another standard mathematics textbook for economics undergraduates.\n\nCalculus\n\nSpivak (2006) A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.\nProtter/Morrey (1991) A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.\n\nLinear Algebra\n\nLay (2011) A standard introduction for mathematics undergraduates.\nStrang (2005) Another standard introduction for mathematics undergraduates. Strang’s MIT video lectures accompanying the textbook are available online for free.\nHefferon (2014) A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free1.\nAxler (2015) A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.\nThe Matrix Cookbook2 An overview over some more advanced matrix calculus.\n\nProbability Theory\n\nDeGroot/Schervish (2011) A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises."
+  },
+  {
+    "objectID": "materials.html#additional-resources",
+    "href": "materials.html#additional-resources",
+    "title": "Materials",
+    "section": "Additional Resources",
+    "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications."
+  },
+  {
+    "objectID": "materials.html#references",
+    "href": "materials.html#references",
+    "title": "Materials",
+    "section": "References",
+    "text": "References\nAxler, S. (2015). Linear Algebra Done Right (3rd ed.). Undergraduate Texts in Mathematics. Springer.\nDeGroot, M. H. and M. J. Schervish (2011). Probability and Statistics (4th ed.). London: Pearson.\nGill, J. (2006). Essential Mathematics for Political and Social Research. Cambridge University Press.\nHefferon, J. (2014). Linear Algebra.\nLay, D. C. (2011). Linear Algebra and Its Applications. London: Pearson.\nMoore, W. H. and D. A. Siegel (2013). A Mathematics Course for Political and Social Research. Princeton: Princeton University Press.\nProtter, M. and C. Morrey (1991). A First Course in Real Analysis (2nd ed.). Undergraduate Texts in Mathematics. Springer.\nSimon, C. P. and L. Blume (1994). Mathematics for Economists. New York: Norton and Company.\nSpivak, M. (2006). Calculus (3rd ed.). Cambridge University Press.\nStrang, G. (2005). Linear Algebra and Its Applications (4th ed.). Brooks Cole.\nSydsaeter, K. and P. Hammond (2008). Essential Mathematics for Economic Analysis (3rd ed.). Essex: Pearson."
+  },
+  {
+    "objectID": "syllabus.html#additional-resources",
+    "href": "syllabus.html#additional-resources",
+    "title": "Mathematics for Political Science",
+    "section": "Additional Resources",
+    "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, ploting and undestanding limits, derivatives, and integrals and their applications."
+  },
+  {
+    "objectID": "materials.html#problem-sets",
+    "href": "materials.html#problem-sets",
+    "title": "Materials",
+    "section": "Problem Sets",
+    "text": "Problem Sets\n\nSet Theory I PDF | Solutions PDF\nSet Theory II PDF | Solutions PDF\nAnalysis I PDF | Solutions PDF\nAnalysis II PDF | Solutions PDF\nLinear Algebra I PDF | Solutions PDF\nLinear Algebra II PDF | Solutions PDF\nProbability I PDF | Solutions PDF\nProbability II PDF | Solutions PDF\nExtra Exercise in Class PDF"
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThis course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. Each day consists of lectures and exercise sessions. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
+  }
+]

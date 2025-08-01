@@ -1,0 +1,111 @@
+---
+title: "Materials"
+---
+
+## Slides
+
+-   Lecture slides [PDF](files/math_refresher_22_lecture_slides.pdf)
+
+## Problem Sets
+
+1. Set Theory I [PDF](files/PS_Set Theory I.pdf) | Solutions [PDF](files/S_Set Theory I.pdf)
+
+2. Set Theory II [PDF](files/PS_Set Theory II.pdf) | Solutions [PDF](files/S_Set Theory II.pdf)
+
+3. Analysis I [PDF](files/PS_Analysis I.pdf) | Solutions [PDF](files/S_Analysis I.pdf)
+
+4. Analysis II [PDF](files/PS_Analysis II.pdf) | Solutions [PDF](files/S_Analysis II.pdf)
+
+5. Linear Algebra I [PDF](files/PS_Algebra I.pdf) | Solutions [PDF](files/S_Algebra I.pdf)
+
+6. Linear Algebra II [PDF](files/PS_Algebra I.pdf) | Solutions [PDF](files/S_Algebra II.pdf)
+
+7. Probability I [PDF](files/PS_Probability I.pdf) | Solutions [PDF](files/S_Probability I.pdf)
+
+8. Probability II [PDF](files/PS_Probability II.pdf) | Solutions [PDF](files/S_Probability II.pdf)
+
+9. Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf) 
+
+## Readings
+
+Here are some recommended readings. You are not required to read all of those books prior to class.
+
+-   General
+
+    -   Moore/Siegel (2013) *An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.*
+
+    -   Gill (2006) *Another introduction to mathematical principles for incoming social science graduate students.*
+
+    -   Simon/Blume (1994) *A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.*
+
+    -   Sydsaeter/Hammond (2008) *Another standard mathematics textbook for economics undergraduates.*
+
+-   Calculus
+
+    -   Spivak (2006) *A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.*
+
+    -   Protter/Morrey (1991) *A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.*
+
+-   Linear Algebra
+
+    -   Lay (2011) *A standard introduction for mathematics undergraduates.*
+
+    -   Strang (2005) *Another standard introduction for mathematics undergraduates. Strang's MIT video lectures accompanying the textbook are available online for free.*
+
+    -   Hefferon (2014) *A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free*[^1].
+
+    -   Axler (2015) *A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.*
+
+    -   The Matrix Cookbook[^2] *An overview over some more advanced matrix calculus.*
+
+-   Probability Theory
+
+    -   DeGroot/Schervish (2011) *A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises.*
+
+[^1]: [https://hefferon.net/linearalgebra/](https://hefferon.net/linearalgebra/)
+
+[^2]: [http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+
+## Additional Resources
+
+Here are some recommended non-textbook extra materials for this course and future references on the topics covered.
+
+Text resources:
+
+-   [Math Prefresher for Political Scientists](https://iqss.github.io/prefresher/)
+    -   Math Part I: chapters 1 to 6
+
+Video resources:
+
+-   [Essence of calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+-   [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+-   [Linear Algebra by Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+
+Learning Tools:
+
+-   [Wolfram Alpha](https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis)
+    -   Wolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications.
+
+## References
+
+Axler, S. (2015). *Linear Algebra Done Right* (3rd ed.). Undergraduate Texts in Mathematics. Springer.
+
+DeGroot, M. H. and M. J. Schervish (2011). *Probability and Statistics* (4th ed.). London: Pearson.
+
+Gill, J. (2006). *Essential Mathematics for Political and Social Research*. Cambridge University Press.
+
+Hefferon, J. (2014). *Linear Algebra*.
+
+Lay, D. C. (2011). *Linear Algebra and Its Applications*. London: Pearson.
+
+Moore, W. H. and D. A. Siegel (2013). *A Mathematics Course for Political and Social Research*. Princeton: Princeton University Press.
+
+Protter, M. and C. Morrey (1991). *A First Course in Real Analysis* (2nd ed.). Undergraduate Texts in Mathematics. Springer.
+
+Simon, C. P. and L. Blume (1994). *Mathematics for Economists*. New York: Norton and Company.
+
+Spivak, M. (2006). *Calculus* (3rd ed.). Cambridge University Press.
+
+Strang, G. (2005). *Linear Algebra and Its Applications* (4th ed.). Brooks Cole.
+
+Sydsaeter, K. and P. Hammond (2008). *Essential Mathematics for Economic Analysis* (3rd ed.). Essex: Pearson.
