@@ -15,31 +15,31 @@ While the instructor strongly encourage attendance, this course is voluntary. If
 ## Class Schedule {#class-schedule}
 
 ::: center
-| **Date**     | **Day**  | **Time**       | **Room**                         |
-|--------------|----------|----------------|----------------------------------|
-| 29.08.2025   | Friday   | 09:15–17:15     | B 317 (A5, 6 Bauteil B)         |
-| 05.09.2025   | Friday   | 14:00–17:15     | B 317 (A5, 6 Bauteil B)         |
-| 12.09.2025   | Friday   | 14:00–17:15     | B 317 (A5, 6 Bauteil B)         |
-| 19.09.2025   | Friday   | 14:00–17:15     | B 317 (A5, 6 Bauteil B)         |
-| 26.09.2025   | Friday   | 14:00–17:15     | B 317 (A5, 6 Bauteil B)         |
-| 10.10.2025   | Friday   | 14:00–17:15     | B 317 (A5, 6 Bauteil B)         |
-| 17.10.2025   | Friday   | 14:00–17:15     | B 317 (A5, 6 Bauteil B)         |
+| **Date**   | **Day** | **Time**    | **Room**                |
+|------------|---------|-------------|-------------------------|
+| 29.08.2025 | Friday  | 09:15–17:15 | C 217 (A5, 6 Bauteil C) |
+| 05.09.2025 | Friday  | 14:00–17:15 | B 317 (A5, 6 Bauteil B) |
+| 12.09.2025 | Friday  | 14:00–17:15 | B 317 (A5, 6 Bauteil B) |
+| 19.09.2025 | Friday  | 14:00–17:15 | B 317 (A5, 6 Bauteil B) |
+| 26.09.2025 | Friday  | 14:00–17:15 | B 317 (A5, 6 Bauteil B) |
+| 10.10.2025 | Friday  | 14:00–17:15 | B 317 (A5, 6 Bauteil B) |
+| 17.10.2025 | Friday  | 14:00–17:15 | B 317 (A5, 6 Bauteil B) |
 :::
 
 ## Contents {#contents}
 
-- Introduction
-- Set Theory
-  - Sets, Binary Relations, Functions
-- Analysis I
-  - Equations, Differentiation
-- Analysis II
-  - Optimization, Integration
-- Linear Algebra I
-  - Linear Combinations, Vector Spaces, Matrices
-- Linear Algebra II
-  - Determinants, Gaussian Elimination
-- Probability I
-  - Combinatorics, Bayes' Rule
-- Probability II
-  - Distributions
+-   Introduction
+-   Set Theory
+    -   Sets, Binary Relations, Functions
+-   Analysis I
+    -   Equations, Differentiation
+-   Analysis II
+    -   Optimization, Integration
+-   Linear Algebra I
+    -   Linear Combinations, Vector Spaces, Matrices
+-   Linear Algebra II
+    -   Determinants, Gaussian Elimination
+-   Probability I
+    -   Combinatorics, Bayes' Rule
+-   Probability II
+    -   Distributions

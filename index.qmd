@@ -14,21 +14,26 @@ editor: visual
 
 ### Welcome Video
 
-<div style="text-align: center;">
-  <video width="720" height="405" controls>
-    <source src="files/Mathematics_for_Political_Scientists_explainer.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+::: {style="text-align: center;"}
+<video width="720" height="405" controls>
+
+<source src="files/Mathematics_for_Political_Scientists_explainer.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
+
+:::
 
 ### Course Details
 
-Times: see [Syllabus](syllabus.html)  
-Location: B 317 Seminarraum (A5, 6 Bauteil B)
+Times: see [Syllabus](syllabus.html)\
+Location: C 217 and B 317 Seminarraum (A5, 6)
 
 ### Teaching Staff
 
-**Carlos Gueiros**  
-Email: [cgueiros@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de)  
-Office Hours: by appointment  
+**Carlos Gueiros**\
+Email: [cgueiros\@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de)\
+Office Hours: by appointment\
 Office: B 301
+
+:::
+:::
