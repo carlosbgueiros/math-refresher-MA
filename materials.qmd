@@ -26,6 +26,14 @@ title: "Materials"
 
 <!-- 9.  Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf) -->
 
+::: callout-tip
+**Multilingual Math Glossary**
+
+The book below (in German) has a useful *Kleines Wörterbuch* appendix listing mathematical terms in four languages: English, German, French, and Russian.
+
+[📘 Mathematik Grundlagen](https://statmath.wu.ac.at/people/leydold/Mathematik_Grundlagen/download/Mathematik_Grundlagen_2.pdf)
+:::
+
 ## Readings
 
 Here are some recommended readings. You are not required to read all of those books prior to class.
