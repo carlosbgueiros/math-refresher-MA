@@ -12,21 +12,12 @@ format:
 editor: visual
 ---
 
-::: callout-important
-**Survey Reminder**  
-Do not forget to take part in the survey for a short study on social science students and their perception of math — open until early next week!  
-
-[👉 Take the Survey](https://www.soscisurvey.de/math-survey/)
-:::
 
 ### Welcome Video
 
-<div style="text-align: center;">
-  <video width="720" height="405" controls> 
-    <source src="files/Mathematics_for_Political_Scientists_explainer.mp4" type="video/mp4"> 
-    Your browser does not support the video tag. 
-  </video>
-</div>
+::: {style="text-align: center;"}
+<video width="720" height="405" controls> <source src="files/Mathematics_for_Political_Scientists_explainer.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+:::
 
 ### Course Details
 
