@@ -12,9 +12,11 @@ title: "Materials"
 
 2.  Set Theory II [PDF](files/PS_Set%20Theory%20II.pdf) \| Solutions [PDF](files/S_Set%20Theory%20II.pdf)
 
-3.  Analysis I - v2 [PDF](files/PS_Analysis%20I.pdf) \| Solutions [PDF](files/S_Analysis_%20I_v2.pdf)
+3.  Analysis I - v2 [PDF](files/PS_Analysis%20I.pdf) \| Solutions [PDF](files/S_Analysis%20I_v2.pdf)
 
 4.  Analysis II [PDF](files/PS_Analysis%20II.pdf) \| Solutions [PDF](files/S_Analysis%20II.pdf)
+
+    -   Extra: Optimization Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf)
 
 5.  Linear Algebra I [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20I.pdf)
 
@@ -23,8 +25,6 @@ title: "Materials"
 7.  Probability I [PDF](files/PS_Probability%20I.pdf) \| Solutions [PDF](files/S_Probability%20I.pdf)
 
 8.  Probability II [PDF](files/PS_Probability%20II.pdf) \| Solutions [PDF](files/S_Probability%20II.pdf)
-
-9.  Extra: Optimization Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf)
 
 ::: callout-tip
 **Multilingual Math Glossary**
