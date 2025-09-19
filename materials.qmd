@@ -26,7 +26,6 @@ title: "Materials"
 
 8.  Probability II [PDF](files/PS_Probability%20II.pdf) \| Solutions [PDF](files/S_Probability%20II.pdf)
 
-
 ## Readings
 
 Here are some recommended readings. You are not required to read all of those books prior to class.
