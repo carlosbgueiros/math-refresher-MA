@@ -12,7 +12,7 @@ title: "Materials"
 
 2.  Set Theory II [PDF](files/PS_Set%20Theory%20II.pdf) \| Solutions [PDF](files/S_Set%20Theory%20II.pdf)
 
-3.  Analysis I - v2 [PDF](files/PS_Analysis%20I-test.pdf) \| Solutions [PDF](files/S_Analysis%20I_v2.pdf)
+3.  Analysis I - v2 [PDF](files/PS_Analysis%20I.pdf) \| Solutions [PDF](files/S_Analysis%20I_v2.pdf)
 
 4.  Analysis II [PDF](files/PS_Analysis%20II.pdf) \| Solutions [PDF](files/S_Analysis%20II.pdf)
 
