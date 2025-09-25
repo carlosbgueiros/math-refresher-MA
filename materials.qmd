@@ -20,7 +20,7 @@ title: "Materials"
 
 5.  Linear Algebra I [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20I.pdf)
 
-6.  Linear Algebra II [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20II.pdf)
+6.  Linear Algebra II [PDF](files/PS_Algebra%20II.pdf) \| Solutions [PDF](files/S_Algebra%20II.pdf)
 
 7.  Probability I [PDF](files/PS_Probability%20I.pdf) \| Solutions [PDF](files/S_Probability%20I.pdf)
 
