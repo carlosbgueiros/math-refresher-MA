@@ -5,6 +5,7 @@ title: "Materials"
 ## Slides
 
 -   Lecture slides [PDF](files/math_refresher_25_lecture_slides.pdf)
+-   Linear Regression [PDF](files/slides_lin_reg.pdf)
 
 ## Problem Sets
 
