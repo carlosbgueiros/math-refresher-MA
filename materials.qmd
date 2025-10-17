@@ -13,6 +13,8 @@ title: "Materials"
 
 2.  Set Theory II [PDF](files/PS_Set%20Theory%20II.pdf) \| Solutions [PDF](files/S_Set%20Theory%20II.pdf)
 
+    -   Extra: Notes on Preference Relations [PDF](files/GT Notes on Preferences.pdf)
+
 3.  Analysis I - v2 [PDF](files/PS_Analysis%20I.pdf) \| Solutions [PDF](files/S_Analysis%20I_v2.pdf)
 
 4.  Analysis II [PDF](files/PS_Analysis%20II.pdf) \| Solutions [PDF](files/S_Analysis%20II.pdf)
@@ -22,6 +24,8 @@ title: "Materials"
 5.  Linear Algebra I [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20I.pdf)
 
 6.  Linear Algebra II [PDF](files/PS_Algebra%20II.pdf) \| Solutions [PDF](files/S_Algebra%20II.pdf)
+
+      -   Extra: Linear Regression in Matrix Form - Exercise in Class [PDF](files/exe_linear_regression.pdf)
 
 7.  Probability I [PDF](files/PS_Probability%20I.pdf) \| Solutions [PDF](files/S_Probability%20I.pdf)
 
