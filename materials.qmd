@@ -4,8 +4,8 @@ title: "Materials"
 
 ## Slides
 
--   Lecture slides [PDF](files/math_refresher_25_lecture_slides.pdf)
--   Linear Regression [PDF](files/slides_lin_reg.pdf)
+- Lecture slides [PDF](files/math_refresher_25_lecture_slides.pdf)
+- Linear Regression [PDF](files/slides_lin_reg.pdf)
 
 ## Problem Sets
 
@@ -13,19 +13,19 @@ title: "Materials"
 
 2.  Set Theory II [PDF](files/PS_Set%20Theory%20II.pdf) \| Solutions [PDF](files/S_Set%20Theory%20II.pdf)
 
-    -   Extra: Notes on Preference Relations [PDF](files/GT Notes on Preferences.pdf)
+    - Extra: Notes on Preference Relations [PDF](files/GT%20Notes%20on%20Preferences.pdf)
 
 3.  Analysis I - v2 [PDF](files/PS_Analysis%20I.pdf) \| Solutions [PDF](files/S_Analysis%20I_v2.pdf)
 
 4.  Analysis II [PDF](files/PS_Analysis%20II.pdf) \| Solutions [PDF](files/S_Analysis%20II.pdf)
 
-    -   Extra: Optimization Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf)
+    - Extra: Optimization Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf)
 
 5.  Linear Algebra I [PDF](files/PS_Algebra%20I.pdf) \| Solutions [PDF](files/S_Algebra%20I.pdf)
 
 6.  Linear Algebra II [PDF](files/PS_Algebra%20II.pdf) \| Solutions [PDF](files/S_Algebra%20II.pdf)
 
-      -   Extra: Linear Regression in Matrix Form - Exercise in Class [PDF](files/exe_linear_regression.pdf)
+    - Extra: Linear Regression in Matrix Form - Exercise in Class [PDF](files/exe_linear_regression.pdf)
 
 7.  Probability I [PDF](files/PS_Probability%20I.pdf) \| Solutions [PDF](files/S_Probability%20I.pdf)
 
@@ -33,39 +33,39 @@ title: "Materials"
 
 ## Readings
 
-Here are some recommended readings. You are not required to read all of those books prior to class.
+Here are some recommended readings.
 
--   General
+- General
 
-    -   Moore/Siegel (2013) *An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.*
+  - Moore/Siegel (2013) *An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.*
 
-    -   Gill (2006) *Another introduction to mathematical principles for incoming social science graduate students.*
+  - Gill (2006) *Another introduction to mathematical principles for incoming social science graduate students.*
 
-    -   Simon/Blume (1994) *A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.*
+  - Simon/Blume (1994) *A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.*
 
-    -   Sydsaeter/Hammond (2008) *Another standard mathematics textbook for economics undergraduates.*
+  - Sydsaeter/Hammond (2008) *Another standard mathematics textbook for economics undergraduates.*
 
--   Calculus
+- Calculus
 
-    -   Spivak (2006) *A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.*
+  - Spivak (2006) *A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.*
 
-    -   Protter/Morrey (1991) *A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.*
+  - Protter/Morrey (1991) *A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.*
 
--   Linear Algebra
+- Linear Algebra
 
-    -   Lay (2011) *A standard introduction for mathematics undergraduates.*
+  - Lay (2011) *A standard introduction for mathematics undergraduates.*
 
-    -   Strang (2005) *Another standard introduction for mathematics undergraduates. Strang's MIT video lectures accompanying the textbook are available online for free.*
+  - Strang (2005) *Another standard introduction for mathematics undergraduates. Strang's MIT video lectures accompanying the textbook are available online for free.*
 
-    -   Hefferon (2014) *A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free*[^1].
+  - Hefferon (2014) *A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free*[^1].
 
-    -   Axler (2015) *A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.*
+  - Axler (2015) *A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.*
 
-    -   The Matrix Cookbook[^2] *An overview over some more advanced matrix calculus.*
+  - The Matrix Cookbook[^2] *An overview over some more advanced matrix calculus.*
 
--   Probability Theory
+- Probability Theory
 
-    -   DeGroot/Schervish (2011) *A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises.*
+  - DeGroot/Schervish (2011) *A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises.*
 
 [^1]: <https://hefferon.net/linearalgebra/>
 
@@ -75,23 +75,23 @@ Here are some recommended readings. You are not required to read all of those bo
 
 Here are some recommended non-textbook extra materials for this course and future references on the topics covered.
 
--   Math Cheat Sheets - [Link](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
+- Math Cheat Sheets - [Link](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
 
 Text resources:
 
--   [Math Prefresher for Political Scientists](https://iqss.github.io/prefresher/)
-    -   Math Part I: chapters 1 to 6
+- [Math Prefresher for Political Scientists](https://iqss.github.io/prefresher/)
+  - Math Part I: chapters 1 to 6
 
 Video resources:
 
--   [Essence of calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
--   [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
--   [Linear Algebra by Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [Essence of calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra by Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 
 Learning Tools:
 
--   [Wolfram Alpha](https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis)
-    -   Wolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications.
+- [Wolfram Alpha](https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis)
+  - Wolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications.
 
 ## References
 

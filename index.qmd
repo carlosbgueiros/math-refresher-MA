@@ -1,5 +1,5 @@
 ---
-title: "Mathematics for Political Science - Fall 2025"
+title: "Mathematics for Political Science"
 description: |
   Math Refresher course for Political Science MA at the University of Mannheim
 format:
@@ -22,8 +22,8 @@ Your browser does not support the video tag. </video>
 
 ### Course Details
 
-Times: see [Syllabus](syllabus.html)\
-Location: C 217 and B 317 Seminarraum (A5, 6)
+See [Syllabus](syllabus.html)\
+
 
 ### Teaching Staff
 

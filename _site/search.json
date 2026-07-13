@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mathematics for Political Science - Fall 2025",
+    "title": "Mathematics for Political Science",
     "section": "",
-    "text": "Welcome Video\n\n\nYour browser does not support the video tag. \n\n\nCourse Details\nTimes: see Syllabus\nLocation: C 217 and B 317 Seminarraum (A5, 6)\n\n\nTeaching Staff\nCarlos Gueiros\nEmail: cgueiros@uni-mannheim.de\nOffice Hours: by appointment\nOffice: B 301"
+    "text": "Welcome Video\n\n\nYour browser does not support the video tag. \n\n\nCourse Details\nSee Syllabus\n\n\n\nTeaching Staff\nCarlos Gueiros\nEmail: cgueiros@uni-mannheim.de\nOffice Hours: by appointment\nOffice: B 301"
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "materials.html#readings",
     "title": "Materials",
     "section": "Readings",
-    "text": "Readings\nHere are some recommended readings. You are not required to read all of those books prior to class.\n\nGeneral\n\nMoore/Siegel (2013) An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.\nGill (2006) Another introduction to mathematical principles for incoming social science graduate students.\nSimon/Blume (1994) A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.\nSydsaeter/Hammond (2008) Another standard mathematics textbook for economics undergraduates.\n\nCalculus\n\nSpivak (2006) A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.\nProtter/Morrey (1991) A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.\n\nLinear Algebra\n\nLay (2011) A standard introduction for mathematics undergraduates.\nStrang (2005) Another standard introduction for mathematics undergraduates. Strang’s MIT video lectures accompanying the textbook are available online for free.\nHefferon (2014) A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free1.\nAxler (2015) A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.\nThe Matrix Cookbook2 An overview over some more advanced matrix calculus.\n\nProbability Theory\n\nDeGroot/Schervish (2011) A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises."
+    "text": "Readings\nHere are some recommended readings.\n\nGeneral\n\nMoore/Siegel (2013) An introductory mathematics course aimed at social scientists, provides good intuitions for basic concepts and applications. It has accompanying video lectures on Youtube.\nGill (2006) Another introduction to mathematical principles for incoming social science graduate students.\nSimon/Blume (1994) A comprehensive treatment of mathematics for students of economics for both undergraduate and more advanced level.\nSydsaeter/Hammond (2008) Another standard mathematics textbook for economics undergraduates.\n\nCalculus\n\nSpivak (2006) A classic standard textbook for a first class in Calculus for mathematics students at undergraduate level.\nProtter/Morrey (1991) A typical theorem-proof book that covers introductory real analysis for mathematics students at undergraduate level. Short and to the point.\n\nLinear Algebra\n\nLay (2011) A standard introduction for mathematics undergraduates.\nStrang (2005) Another standard introduction for mathematics undergraduates. Strang’s MIT video lectures accompanying the textbook are available online for free.\nHefferon (2014) A theorem-proof style introductory book for mathematics undergraduates with lots of examples and interesting applications. It is free1.\nAxler (2015) A more rigorous but intuitive treatment of linear algebra for mathematics undergraduates.\nThe Matrix Cookbook2 An overview over some more advanced matrix calculus.\n\nProbability Theory\n\nDeGroot/Schervish (2011) A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises."
   },
   {
     "objectID": "materials.html#additional-resources",
@@ -88,7 +88,7 @@
     "href": "syllabus.html#course-description",
     "title": "Syllabus",
     "section": "Course Description",
-    "text": "Course Description\nThis course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. Each day consists of lectures and exercise sessions. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
+    "text": "Course Description\nThis course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. This course is designed for self-study. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
   },
   {
     "objectID": "materials.html#slides",
